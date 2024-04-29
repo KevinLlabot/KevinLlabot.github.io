@@ -4,6 +4,22 @@
     padding: 0;
 }
 
+header{
+    height: 50px;
+    width: 100%;
+    background-color: #131212;
+    border: color(srgb red rgb(153, 157, 153) blue);
+    margin-top: 5px;
+    
+    
+}
+
+.miportafolio{
+
+    position: relative;
+    left: 160px;
+    top: 10px;
+}
 body{
 
     background-color: rgb(105, 102, 102);
@@ -53,4 +69,24 @@ top: 10px;
     top: 20px;
     left: 10px;
     background-color: brown;
+}
+
+.logollamada{
+
+    height: 50px;
+}
+
+.logomail{
+
+    height: 50px;
+}
+
+.logoinstagram{
+
+    height: 50px;
+}
+
+.logoubi{
+    height: 50px;
+    width: 60px;
 }
