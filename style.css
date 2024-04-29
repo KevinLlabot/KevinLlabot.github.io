@@ -10,8 +10,6 @@ header{
     background-color: #131212;
     border: color(srgb red rgb(153, 157, 153) blue);
     margin-top: 5px;
-    
-    
 }
 
 .miportafolio{
@@ -63,17 +61,28 @@ left: 10px;
 top: 10px;
 }
 
+.info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    
+}
+ 
+.info img {
+    margin-right: 15px;
+}
+
 #algosobremi{
     height: 200px;
     position: relative;
     top: 20px;
     left: 10px;
-    background-color: brown;
+    background-color: rgb(196, 196, 193);
 }
 
 .logollamada{
 
-    height: 50px;
+    height: 35px;
 }
 
 .logomail{
