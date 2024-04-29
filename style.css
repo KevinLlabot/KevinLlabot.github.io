@@ -8,18 +8,18 @@ header{
     height: 50px;
     width: 100%;
     background-color: #131212;
-    border: color(srgb red rgb(153, 157, 153) blue);
     margin-top: 5px;
 }
 
 .miportafolio{
 
     position: relative;
-    left: 160px;
+    left: 250px;
     top: 10px;
 }
 body{
-
+    height: 100%;
+    width: 100%;
     background-color: rgb(105, 102, 102);
 }
 
@@ -30,6 +30,7 @@ body{
     height: 300px;
     width: 300px;
     top: 10px;
+    width: 50%;
  }
 
  .nombre{
@@ -37,34 +38,49 @@ body{
     position: relative;
     left: 10px;
     top: 10px;
+    width: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  }
  .profesion{
     position: relative;
     left: 10px;
     top: 10px;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
  }
 
 p{
     position: relative;
     left: 10px;
     top: 10px;
+    width: 100%;
 }
 
 .contacto{
+
     position: relative;
     left: 10px;
     top: 10px;
+    bottom: 10px;
+    width: 50%;
+    height: 30%;
 }
 #contacto{
 position: relative;
 left: 10px;
 top: 10px;
+width: 50%;
+height: 30%;
+background-color: rgb(152, 152, 149);
+
 }
 
 .info {
+
     display: flex;
     align-items: center;
     margin-bottom: 10px;
+    width: 50%;
     
 }
  
@@ -73,7 +89,8 @@ top: 10px;
 }
 
 #algosobremi{
-    height: 200px;
+    width: 50%;
+    height: 40%;
     position: relative;
     top: 20px;
     left: 10px;
