@@ -9,3 +9,23 @@ body{
     background-color: rgb(105, 102, 102);
 }
 
+
+ img{
+    position: relative;
+    left: 250px;
+    height: 200px;
+    width: 300px;
+    top: 10px;
+ }
+
+ h1{
+
+    position: relative;
+    left: 170px;
+    top: 10px;
+ }
+ h3{
+    position: relative;
+    left: 260px;
+    top: 10px;
+ }
