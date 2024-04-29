@@ -10,7 +10,7 @@ body{
 }
 
 
- img{
+ .fotoperfil{
     position: relative;
     left: 10px;
     height: 300px;
@@ -18,13 +18,13 @@ body{
     top: 10px;
  }
 
- h1{
+ .nombre{
 
     position: relative;
     left: 10px;
     top: 10px;
  }
- h3{
+ .profesion{
     position: relative;
     left: 10px;
     top: 10px;
@@ -34,6 +34,17 @@ p{
     position: relative;
     left: 10px;
     top: 10px;
+}
+
+.contacto{
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+#contacto{
+position: relative;
+left: 10px;
+top: 10px;
 }
 
 #algosobremi{
