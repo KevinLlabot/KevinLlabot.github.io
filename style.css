@@ -14,11 +14,11 @@ header{
 .miportafolio{
 
     position: relative;
-    left: 250px;
+    left: 300px;
     top: 10px;
 }
 body{
-    height: 100%;
+    height: 200%;
     width: 100%;
     background-color: rgb(105, 102, 102);
 }
@@ -36,15 +36,15 @@ body{
  .nombre{
 
     position: relative;
-    left: 10px;
-    top: 10px;
+    left: 100px;
+    top: 15px;
     width: 50%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  }
  .profesion{
     position: relative;
-    left: 10px;
-    top: 10px;
+    left: 187px;
+    top: 15px;
     width: 50%;
     font-family: Arial, Helvetica, sans-serif;
  }
@@ -56,21 +56,21 @@ p{
     width: 100%;
 }
 
-.contacto{
+.infodos{
 
     position: relative;
     left: 10px;
     top: 10px;
-    bottom: 10px;
-    width: 50%;
-    height: 30%;
+    width: 100%;
+    height: 20%;
 }
+
 #contacto{
 position: relative;
 left: 10px;
-top: 10px;
+top: 30px;
 width: 50%;
-height: 30%;
+height: 300px;
 background-color: rgb(152, 152, 149);
 
 }
@@ -78,9 +78,11 @@ background-color: rgb(152, 152, 149);
 .info {
 
     display: flex;
-    align-items: center;
-    margin-bottom: 10px;
-    width: 50%;
+    align-items: normal;
+    margin-bottom: 15px;
+    width: 100%;
+    margin-left: 10px;
+    
     
 }
  
@@ -90,9 +92,9 @@ background-color: rgb(152, 152, 149);
 
 #algosobremi{
     width: 50%;
-    height: 40%;
+    height: 170px;
     position: relative;
-    top: 20px;
+    top: 40px;
     left: 10px;
     background-color: rgb(196, 196, 193);
 }
@@ -115,4 +117,19 @@ background-color: rgb(152, 152, 149);
 .logoubi{
     height: 50px;
     width: 60px;
+}
+
+#divdos{
+    position: relative;
+    height: 300px;
+    width: 616px;
+    background-color: chartreuse;
+    left: 52%;
+    bottom: 751px;
+}
+
+.formacion{
+  
+    color: rgb(0, 134, 244);
+
 }
