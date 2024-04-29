@@ -14,8 +14,8 @@ header{
 .miportafolio{
 
     position: relative;
-    left: 300px;
-    top: 10px;
+    left: 500px;
+    top: 5px;
 }
 body{
     height: 200%;
@@ -37,14 +37,14 @@ body{
 
     position: relative;
     left: 100px;
-    top: 15px;
+    top: 53px;
     width: 50%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  }
  .profesion{
     position: relative;
     left: 187px;
-    top: 15px;
+    top: 63px;
     width: 50%;
     font-family: Arial, Helvetica, sans-serif;
  }
@@ -68,7 +68,7 @@ p{
 #contacto{
 position: relative;
 left: 10px;
-top: 30px;
+top: 150px;
 width: 50%;
 height: 300px;
 background-color: rgb(152, 152, 149);
@@ -94,9 +94,14 @@ background-color: rgb(152, 152, 149);
     width: 50%;
     height: 170px;
     position: relative;
-    top: 40px;
+    top: 250px;
     left: 10px;
     background-color: rgb(196, 196, 193);
+}
+
+.TitleAlgosobremi{
+    position: relative;
+    left: 10px;
 }
 
 .logollamada{
@@ -131,5 +136,19 @@ background-color: rgb(152, 152, 149);
 .formacion{
   
     color: rgb(0, 134, 244);
+
+}
+
+.linea1{
+
+    position: relative;
+    top: 100px;
+
+}
+
+.linea2{
+
+    position: relative;
+    top: 190px;
 
 }
