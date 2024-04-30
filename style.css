@@ -27,7 +27,7 @@ body{
  .fotoperfil{
     position: relative;
     left: 10px;
-    height: 300px;
+    height: 400px;
     width: 300px;
     top: 10px;
     width: 50%;
@@ -130,7 +130,7 @@ background-color: rgb(152, 152, 149);
     width: 616px;
     background-color: rgb(123, 128, 128);
     left: 52%;
-    bottom: 894px;
+    bottom: 995px;
 }
 
 .formacion{
@@ -183,7 +183,7 @@ li{
     background-color: rgb(152, 152, 149);
     height: 380px;
     width: 616px;
-    top: 230px;
+    top: 330px;
 }
 
 .aspiraciones{
