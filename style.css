@@ -238,10 +238,10 @@ li{
 #video{
 
     position: relative;
-    background-color: aquamarine;
+    background-color: rgb(196, 196, 193);
     height: 100%;
     width: 100%;
-    top: 210px;
+    top: 220px;
 }   
 
 .video{
@@ -250,4 +250,9 @@ li{
     left: 115px;
     top: 10px;
 }
+ .ventana{
 
+    position: relative;
+    left: 7px;
+    top: 20px;
+ }
