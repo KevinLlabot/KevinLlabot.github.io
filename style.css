@@ -126,16 +126,18 @@ background-color: rgb(152, 152, 149);
 
 #divdos{
     position: relative;
-    height: 300px;
+    height: 450px;
     width: 616px;
-    background-color: chartreuse;
+    background-color: rgb(123, 128, 128);
     left: 52%;
-    bottom: 751px;
+    bottom: 894px;
 }
 
 .formacion{
-  
+    position: relative;
     color: rgb(0, 134, 244);
+    left: 200px;
+    top: 10px;
 
 }
 
@@ -152,3 +154,85 @@ background-color: rgb(152, 152, 149);
     top: 190px;
 
 }
+
+.ul{
+    font-size: 30px;
+    position: relative;
+    left: 70px;
+    top: 40px;
+}
+
+.cursos{
+
+    position: relative;
+    color: rgb(0, 134, 244);
+    left: 235px;
+    top: 70px;
+}
+
+li{
+
+    position: relative;
+    left: 60px;
+    top: 100px;
+    font-size: 15px;
+}
+
+#aspiraciones{
+    position: relative;
+    background-color: rgb(152, 152, 149);
+    height: 380px;
+    width: 616px;
+    top: 230px;
+}
+
+.aspiraciones{
+
+    position: relative;
+    color: rgb(0, 134, 244);
+    left: 180px;
+    top: 10px;
+}
+
+.ul1{
+
+    position: relative;
+    right: 10px;
+    width: 90%;
+    top: 30px;
+}
+
+.li1{
+    position: relative;
+    top: 20px;
+    font-size: 20px;
+}
+
+.ul2{
+
+    position: relative;
+    right: 10px;
+    width: 90%;
+    top: 30px;
+}
+
+.li2{
+    position: relative;
+    top: 40px;
+    font-size: 20px;
+}
+
+.ul3{
+
+    position: relative;
+    right: 10px;
+    width: 90%;
+    top: 30px;
+}
+
+.li3{
+    position: relative;
+    top: 70px;
+    font-size: 20px;
+}
+
