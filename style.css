@@ -82,9 +82,9 @@ background-color: rgb(105, 102, 102);
     position: relative;
     bottom: 70px;
     font-size: 30px;
-    border: 2px solid #3a07f3;
+    border: 2px solid #fdfdff;
     border-radius: 5px;
-    box-shadow: 2px 2px 5px #2d2d75;
+    box-shadow: 2px 2px 10px #acacb4;
     padding: 10px;
 }
 
@@ -115,9 +115,9 @@ background-color: rgb(105, 102, 102);
 .TitleAlgosobremi{
     position: relative;
     left: 10px;
-    border: 2px solid #3a07f3;
+    border: 2px solid #fdfdff;
     border-radius: 5px;
-    box-shadow: 2px 2px 5px #2d2d75;
+    box-shadow: 2px 2px 10px #acacb4;
     padding: 10px;
     bottom: 90px;
 }
@@ -153,7 +153,7 @@ background-color: rgb(105, 102, 102);
 
 .formacion{
     position: relative;
-    color: rgb(0, 134, 244);
+    color: rgb(4, 71, 12);
     left: 200px;
     top: 10px;
 
@@ -183,7 +183,7 @@ background-color: rgb(105, 102, 102);
 .cursos{
 
     position: relative;
-    color: rgb(0, 134, 244);
+    color: rgb(4, 71, 12);
     left: 235px;
     top: 90px;
 }
@@ -208,11 +208,11 @@ li{
 .aspiraciones{
 
     position: relative;
-    color: rgb(0, 134, 244);
+    color: rgb(4, 71, 12);
     bottom: 31px;
-    border: 2px solid #3a07f3;
+    border: 2px solid #fdfdff;
     border-radius: 5px;
-    box-shadow: 2px 2px 5px #2d2d75;
+    box-shadow: 2px 2px 10px #acacb4;
     padding: 10px;
 }
 
@@ -269,10 +269,10 @@ li{
 
 .video{
     position: relative;
-    color: rgb(0, 134, 244);
-    border: 2px solid #3a07f3;
+    color: rgb(4, 71, 12);
+    border: 2px solid #fdfdff;
     border-radius: 5px;
-    box-shadow: 2px 2px 5px #2d2d75;
+    box-shadow: 2px 2px 10px #acacb4;
     padding: 10px;
     bottom: 94px;
 }
