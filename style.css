@@ -70,7 +70,7 @@ p{
 #contacto{
 position: relative;
 left: 10px;
-top: 150px;
+top: 175px;
 width: 50%;
 height: 300px;
 background-color: rgb(105, 102, 102);
@@ -80,7 +80,7 @@ background-color: rgb(105, 102, 102);
 .contacto{
 
     position: relative;
-    bottom: 46px;
+    bottom: 70px;
     font-size: 30px;
     border: 2px solid #3a07f3;
     border-radius: 5px;
@@ -148,7 +148,7 @@ background-color: rgb(105, 102, 102);
     width: 616px;
     background-color: rgb(123, 128, 128);
     left: 52%;
-    bottom: 1148px;
+    bottom: 1073px;
 }
 
 .formacion{
@@ -209,7 +209,7 @@ li{
 
     position: relative;
     color: rgb(0, 134, 244);
-    top: 6px;
+    bottom: 31px;
     border: 2px solid #3a07f3;
     border-radius: 5px;
     box-shadow: 2px 2px 5px #2d2d75;
@@ -226,8 +226,9 @@ li{
 
 .li1{
     position: relative;
-    top: 20px;
+    top: -20px;
     font-size: 20px;
+    
 }
 
 .ul2{
@@ -240,7 +241,7 @@ li{
 
 .li2{
     position: relative;
-    top: 40px;
+    top: 10px;
     font-size: 20px;
 }
 
@@ -254,7 +255,7 @@ li{
 
 .li3{
     position: relative;
-    top: 70px;
+    top: 40px;
     font-size: 20px;
 }
 #video{
@@ -273,11 +274,11 @@ li{
     border-radius: 5px;
     box-shadow: 2px 2px 5px #2d2d75;
     padding: 10px;
-    bottom: 20px;
+    bottom: 94px;
 }
  .ventana{
 
     position: relative;
     left: 7px;
-    top: 20px;
+    
  }
